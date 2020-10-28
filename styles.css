@@ -1,0 +1,47 @@
+header{
+    background: rgb(180, 178, 178);
+    color: mediumorchid;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight:lighter ;
+
+}
+h2{
+    color: rgb(14, 163, 101);
+    font-size: 30px;
+    font-family: fantasy;
+    font-weight: bold;
+    text-align: left;
+}
+section{
+    background: mediumorchid;
+    font-size:medium;
+    font-family: cursive;
+    font-weight:lighter;
+    text-align: justify;
+}
+footer{
+    clear: both;
+    padding: 20px;
+    background: #2d3436;
+    color: white ;
+
+}
+header,h2, section{
+    border: 5px solid #9999;
+    padding: 20px;
+}
+body{
+    text-align: center;
+}
+div{
+    width: 960px;
+    background: cornflowerblue;
+    margin: auto;
+    padding: 50px;
+}
+img{
+    width: 500px;
+    display: block;
+    margin: auto;
+}
